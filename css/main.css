@@ -215,6 +215,7 @@ header .main-menu .item .item__contents {
   display: none;
 }
 
+
 header .main-menu .item:hover .item__contents {
   display: block;
 }
